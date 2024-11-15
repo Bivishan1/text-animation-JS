@@ -15,4 +15,7 @@ function onArrival() {
 	const span = heading.querySelectorAll('span')[count];
 	span.classList.add('fade');
 	count++;
+	const div = heading.querySelectorAll('span')[count];
+	span.classList.add('fade');
+	count++;
 }

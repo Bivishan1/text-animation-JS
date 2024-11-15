@@ -32,7 +32,7 @@ span {
 	transform: translateY(50px) translateX(50px);
 }
 
-span.fade {
+span .fade {
 	opacity: 1;
 	transform: translateY(0) translateX(0px);
 	color: rgb(255, 117, 202);
